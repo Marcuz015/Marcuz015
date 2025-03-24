@@ -1,12 +1,12 @@
-<h2 align="center">Oi👋!  Me chamo João Paulo Marcuz</h2>
+<h2 align="left">Oi👋!  Me chamo João Paulo Marcuz</h2>
 
 ###
 
-<p align="center">Formado em Técnico em Desenvolvimento de sistemas e cursando Analise desenvolvimento de sistemas</p>
+<p align="left">Formado em Técnico em Desenvolvimento de sistemas e cursando Analise desenvolvimento de sistemas</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
