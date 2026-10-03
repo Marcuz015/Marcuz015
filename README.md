@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou João Paulo Marcuz 👋
+# Olá, eu sou João Paulo Marcuz
 
 ### Full Stack Developer · Mobile Developer
 
@@ -16,7 +16,7 @@ Desenvolvo aplicações **web e mobile**, conectando interface, backend e dados 
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 - 📱 **Estagiário em Desenvolvimento Mobile**, trabalhando com **Kotlin e Jetpack Compose**.
 - 💻 **Programador Júnior Full Stack**, atuando com aplicações web, backend, banco de dados e integrações.
@@ -26,7 +26,7 @@ Desenvolvo aplicações **web e mobile**, conectando interface, backend e dados 
 
 ---
 
-## 📱 Desenvolvimento Mobile
+## Desenvolvimento Mobile
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="48" alt="Android Studio" />
@@ -44,7 +44,7 @@ Desenvolvo aplicações **web e mobile**, conectando interface, backend e dados 
 
 ---
 
-## 🌐 Desenvolvimento Web
+## Desenvolvimento Web
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="Vue.js" />
@@ -64,7 +64,7 @@ Desenvolvo aplicações **web e mobile**, conectando interface, backend e dados 
 
 ---
 
-## ⚙️ Back-End & Dados
+## Back-End & Dados
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
@@ -88,7 +88,7 @@ Desenvolvo aplicações **web e mobile**, conectando interface, backend e dados 
 
 ---
 
-## 🧰 Ferramentas
+## Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
@@ -100,12 +100,12 @@ Desenvolvo aplicações **web e mobile**, conectando interface, backend e dados 
 
 ---
 
-## 🎓 Formação & Experiência
+## Formação & Experiência
 
 | Período | Tipo | Instituição / Empresa | Curso / Cargo |
 |---|---|---|---|
-| 2022 — 2024 | 🎓 Formação | **ETEC — Tietê/SP** | Técnico em Desenvolvimento de Sistemas |
-| 2025 — 2026 | 💼 Experiência | **TOL Informática e Sistemas** | Estagiário em Desenvolvimento Mobile |
-| 2025 — 2026 | 🎓 Formação | **CEUNSP** | Análise e Desenvolvimento de Sistemas |
-| 2026 — Atual | 💼 Experiência | **Mister Jackey — Tietê/SP** | Programador Júnior Full Stack |
+| 2022 — 2024 | Formação | **ETEC — Tietê/SP** | Técnico em Desenvolvimento de Sistemas |
+| 2025 — 2026 | Experiência | **TOL Informática e Sistemas** | Estagiário em Desenvolvimento Mobile |
+| 2025 — 2026 | Formação | **CEUNSP** | Análise e Desenvolvimento de Sistemas |
+| 2026 — Atual | Experiência | **Mister Jackey — Tietê/SP** | Programador Júnior Full Stack |
 
